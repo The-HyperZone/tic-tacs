@@ -1,6 +1,7 @@
 package net.gegy1000.tictacs.chunk.step;
 
 import java.util.List;
+import net.gegy1000.tictacs.chunk.step.StepKernelResolver.Results;
 
 public final class StepKernelResolver {
     private final List<ChunkStep> steps;

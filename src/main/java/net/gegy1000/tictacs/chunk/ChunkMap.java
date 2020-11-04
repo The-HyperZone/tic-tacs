@@ -10,6 +10,8 @@ import net.gegy1000.justnow.future.Future;
 import net.gegy1000.justnow.tuple.Unit;
 import net.gegy1000.tictacs.async.LinkedWaiter;
 import net.gegy1000.tictacs.async.WaiterQueue;
+import net.gegy1000.tictacs.chunk.ChunkMap.Primary;
+import net.gegy1000.tictacs.chunk.ChunkMap.Visible;
 import net.gegy1000.tictacs.chunk.entry.ChunkEntry;
 import net.gegy1000.tictacs.mixin.TacsAccessor;
 import net.minecraft.server.world.ServerWorld;

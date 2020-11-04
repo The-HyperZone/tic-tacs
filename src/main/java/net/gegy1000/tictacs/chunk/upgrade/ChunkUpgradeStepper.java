@@ -7,6 +7,8 @@ import net.gegy1000.tictacs.TicTacs;
 import net.gegy1000.tictacs.chunk.entry.ChunkEntry;
 import net.gegy1000.tictacs.chunk.future.JoinAllArray;
 import net.gegy1000.tictacs.chunk.step.ChunkStep;
+import net.gegy1000.tictacs.chunk.upgrade.ChunkUpgradeStepper.ContextView;
+import net.gegy1000.tictacs.chunk.upgrade.ChunkUpgradeStepper.TaskWithContext;
 import net.minecraft.util.math.ChunkPos;
 import net.minecraft.world.chunk.Chunk;
 
